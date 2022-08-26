@@ -23,7 +23,7 @@ timezone: Asia/Kolkata
 
 title: Kulshreshth khare                          # the main title
 
-tagline: Fullstack developer   # it will display as the sub-title
+tagline: "Fullstack developer :sunglasses:"   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Hi, I am kulshreshth khare I am a software developer. I oftenly use GO, PHP, Mongo, MySql, Jquery, AWS, Docker, Bitbucket and Git.
@@ -171,6 +171,10 @@ defaults:
 sass:
   style: compressed
 
+plugins:
+  - jemoji
+  - jekyll-mentions
+  
 compress_html:
   clippings: all
   comments: all
