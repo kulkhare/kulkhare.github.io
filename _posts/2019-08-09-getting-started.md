@@ -1,0 +1,18 @@
+---
+title: Welcome
+author: kulshreshth khare
+date: 2022-08-24 20:55:00 +0800
+categories: [Welcome]
+tags: [welcome, first post, new site, kulkhare.com]
+pin: true
+---
+
+## Hello visitor,
+
+This is my first post, I am going to post about programming and web development.<br>
+Initially I will be focusing on technologies like *GO*, *PHP*, *Mongo*, *MySql*, *Jquery*, *AWS*, *Docker*, *Bitbucket* and *Git*.<br>
+I may also post about *IoT*, *electronics* and other stuff depends on my hobby.
+
+I am hoping to be regular here and try to interact using post as much as possible.
+
+Thank you for your time :)
