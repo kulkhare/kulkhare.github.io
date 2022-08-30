@@ -7,7 +7,6 @@ tags: [tech, laravel, socialite, php, social login]
 ---
 
 ![Laravel Socialite](/assets/img/posts/laravel-socialite.png){: w="700" h="300" }
-_Image source laravelnews.com_
 
 I remember when I implemented Laravel Socialite in one of my website for users to login using their Google+ accounts. 
 Everything was working fine but there was one issue after login for the first time user were unable to switch to a different Google account if they log out and then log back in. 
